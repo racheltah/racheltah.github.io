@@ -15,18 +15,34 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            <p>{{ post.description }}</p>
+                            <div class="modal-itinerary">
+                                <table class="table table-striped table-hover>
+                                    <tr class="success">
+                                        <th>Destination</th>
+                                        <td>{{ post.destination }}</td>
+                                    </tr>
+                                    <tr class="success">
+                                        <th>Date</th>
+                                        <td>{{ post.project-date }}</td>
+                                    </tr>
+                                    <tr class="active">
+                                        <th>Category</th>
+                                        <td>{{ post.category }}</td>
+                                    </tr>
+                                </table>
+                            </div>
+                            <div class="modal-description"><p>{{ post.description }}</p></div>
                             <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
+                                <li>Budget:
+                                    <strong><a href="http://startbootstrap.com">{{ post.budget }}</a>
                                     </strong>
                                 </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
+                                <li>Food:
+                                    <strong><a href="http://startbootstrap.com">{{ post.food }}</a>
                                     </strong>
                                 </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
+                                <li>Scenery:
+                                    <strong><a href="http://startbootstrap.com">{{ post.scenery }}</a>
                                     </strong>
                                 </li>
                             </ul>

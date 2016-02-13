@@ -1,0 +1,15 @@
+.modal-body img {
+    width: 300px;
+    display: inline-block;
+    position: relative;
+    float: left;
+    margin-right: 30px;
+}
+
+.modal-description {
+    text-align: justify;
+}
+
+.modal-itinerary table {
+    width: 50%;
+}
