@@ -4,7 +4,7 @@ modal-id: 1
 date: 2014-07-18
 img: cabin.png
 alt: image-alt
-project-date: April 30th - May 21st 2016
+project-date: xxxx 2016
 destination: Thailand
 category: Long trips
 budget: 0
