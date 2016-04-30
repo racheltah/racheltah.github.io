@@ -30,7 +30,7 @@ force-https: False
 
 lang: "en"
 author: "Rachel"
-title: "{ Traveling with Rachel and Laura }"
+title: "{ This is Not a Blog }"
 description: "Holidays in Thailand"
 keywords: "thailand, travel, timeline, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
@@ -110,13 +110,13 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/location.png"
-    date: "01/05/2016, 13:40"
+    date: "01/05/16, 13:40"
     description: "Touchdown in Bangkok, Thailand"
   - image: "/img/timeline/paper-plane.png"
-    date: "30/05/2016, 21:40 (CET)"
+    date: "30/05/16, 21:40 (CET)"
     description: "Off to Thailand for 3 weeks!"
   - image: "/img/timeline/website-lock.png"
-    date: "February 2016 - 29/05/2016"
+    date: "28/05/16 - 29/05/16"
     description: "Trying to finish this blog page before departure"
 #image: "/img/timeline/spidertocat.png"
 #date: "September 2013 - Today"
