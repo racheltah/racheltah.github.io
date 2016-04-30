@@ -29,10 +29,10 @@ force-https: False
 #############
 
 lang: "en"
-author: "Rachel TAH"
-title: "{ Rachel TAH }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+author: "Rachel"
+title: "{ Traveling with Rachel and Laura }"
+description: "Holidays in Thailand"
+keywords: "thailand, travel, timeline, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
 
 ################
