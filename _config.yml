@@ -109,7 +109,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/marker.png"
+  - image: "/img/timeline/location.png"
     date: "01/05/2016, 13:40"
     description: "Touchdown in Bangkok, Thailand"
   - image: "/img/timeline/paper-plane.png"
@@ -156,11 +156,11 @@ social:
   - title: "twitter"
     url: "https://twitter.com/"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-  - title: "rss"
-    url: "/feed.xml"
+    url: "https://github.com/"
+#title: "bitcoin"
+    #url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+#title: "rss"
+    #url: "/feed.xml"
 
 ############
 # 404 page #
